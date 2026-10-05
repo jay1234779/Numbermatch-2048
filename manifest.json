@@ -1,0 +1,12 @@
+{
+  "name": "2048 Number Puzzle",
+  "short_name": "2048 Puzzle",
+  "description": "A fun and addictive number matching puzzle game. Merge numbers, reach 2048, and beat your best score!",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf8ef",
+  "theme_color": "#8f7a66",
+  "orientation": "portrait",
+  "scope": "./",
+  "lang": "en"
+}
